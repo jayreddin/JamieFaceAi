@@ -1,0 +1,10 @@
+streamlit
+scikit-image
+scikit-learn
+opencv-python-headless
+watchdog
+streamlit-webrtc
+twilio
+onnxruntime
+mediapipe
+altair<5
